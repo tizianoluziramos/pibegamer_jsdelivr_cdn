@@ -1,0 +1,40 @@
+{
+  "pc": [
+    { "files": "Ambidextro" },
+    { "files": "Counter+Strike+1.6" },
+    { "files": "Deltarune" },
+    { "files": "Dispatch" },
+    { "files": "Farming+Simulator+25" },
+    { "files": "Getting+Over+It+With+Bennet+Foddy" },
+    { "files": "Golfing+Over+It+With+Alva+Majo" },
+    { "files": "Grand+Theft+Auto+San+Andreas" },
+    { "files": "Hello+Neighbor" },
+    { "files": "Hollow+Knight" },
+    { "files": "Hollow+Knight+Silksong" },
+    { "files": "Majotori" },
+    { "files": "Minecraft" },
+    { "files": "No+Im+not+a+Human" },
+    { "files": "Plants+Vs+Zombies+Christmas+Edition" },
+    { "files": "Plants+Vs+Zombies+Goty+Edition" },
+    { "files": "Plants+Vs+Zombies+Replanted" },
+    { "files": "Pureya" },
+    { "files": "Raft" },
+    { "files": "rFactor+1" },
+    { "files": "Snowfighters" },
+    { "files": "Stardew+Valley" },
+    { "files": "Suicide+Guy+Sleepin+Deeply" },
+    { "files": "Superliminal" },
+    { "files": "Terraria" },
+    { "files": "The+Planet+Crafter" },
+    { "files": "Undertale" },
+    { "files": "Geometry+Dash" },
+    { "files": "South+Park+The+Fractured+But+Gold+Edition" },
+    { "files": "Dead+End+Exit+8" },
+    { "files": "The+Exit+8" }
+  ],
+  "android": [
+    { "files": "Ambidextro" },
+    { "files": "Majotori" },
+    { "files": "Pureya" }
+  ]
+}
