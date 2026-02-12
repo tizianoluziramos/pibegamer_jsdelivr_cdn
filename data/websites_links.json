@@ -7,7 +7,7 @@
   {
     "label": "PCGAMESTORRENTS",
     "image": "pcgamestorrents.webp",
-    "href": "https://pcgamestorrents.com",
+    "href": "https://pcgamestorrents.com"
   },
   {
     "label": "PiviGames",
@@ -17,31 +17,31 @@
   {
     "label": "ElAmigos",
     "image": "elamigos.webp",
-    "href": "https://www.elamigos.site",
+    "href": "https://www.elamigos.site"
   },
   {
     "label": "SteamUnlocked",
     "image": "steamunlocked.webp",
-    "href": "https://steamunlocked.org",
+    "href": "https://steamunlocked.org"
   },
   {
     "label": "Compu-PC",
     "image": "compu-pc.webp",
-    "href": "https://compu-pc.com",
+    "href": "https://compu-pc.com"
   },
   {
     "label": "GOGUnlocked",
     "image": "gogunlocked.webp",
-    "href": "https://gogunlocked.com",
+    "href": "https://gogunlocked.com"
   },
   {
     "label": "Online Fix",
     "image": "onlinefix.webp",
-    "href": "https://online-fix.me",
+    "href": "https://online-fix.me"
   },
   {
     "label": "SteamGG",
     "image": "steamgg.webp",
-    "href": "https//steamgg.net",
-  },
+    "href": "https://steamgg.net"
+  }
 ]
