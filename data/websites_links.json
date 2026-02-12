@@ -1,47 +1,47 @@
 [
   {
-    label: "IGG Games",
-    image: "igggames.webp",
-    href: "https://igg-games.com"
+    "label": "IGG Games",
+    "image": "igggames.webp",
+    "href": "https://igg-games.com"
   },
   {
-    label: "PCGAMESTORRENTS",
-    image: `pcgamestorrents.webp`,
-    href: "https://pcgamestorrents.com",
+    "label": "PCGAMESTORRENTS",
+    "image": "pcgamestorrents.webp",
+    "href": "https://pcgamestorrents.com",
   },
   {
-    label: "PiviGames",
-    image: "pivigames.webp",
-    href: "https://pivigames.blog"
+    "label": "PiviGames",
+    "image": "pivigames.webp",
+    "href": "https://pivigames.blog"
   },
   {
-    label: "ElAmigos",
-    image: "elamigos.webp",
-    href: "https://www.elamigos.site",
+    "label": "ElAmigos",
+    "image": "elamigos.webp",
+    "href": "https://www.elamigos.site",
   },
   {
-    label: "SteamUnlocked",
-    image: "steamunlocked.webp",
-    href: "https://steamunlocked.org",
+    "label": "SteamUnlocked",
+    "image": "steamunlocked.webp",
+    "href": "https://steamunlocked.org",
   },
   {
-    label: "Compu-PC",
-    image: "compu-pc.webp",
-    href: "https://compu-pc.com",
+    "label": "Compu-PC",
+    "image": "compu-pc.webp",
+    "href": "https://compu-pc.com",
   },
   {
-    label: "GOGUnlocked",
-    image: "gogunlocked.webp",
-    href: "https://gogunlocked.com",
+    "label": "GOGUnlocked",
+    "image": "gogunlocked.webp",
+    "href": "https://gogunlocked.com",
   },
   {
-    label: "Online Fix",
-    image: "onlinefix.webp",
-    href: "https://online-fix.me",
+    "label": "Online Fix",
+    "image": "onlinefix.webp",
+    "href": "https://online-fix.me",
   },
   {
-    label: "SteamGG",
-    image: "steamgg.webp",
-    href: "https//steamgg.net",
+    "label": "SteamGG",
+    "image": "steamgg.webp",
+    "href": "https//steamgg.net",
   },
 ];
