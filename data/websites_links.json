@@ -43,5 +43,10 @@
     "label": "SteamGG",
     "image": "steamgg.webp",
     "href": "https://steamgg.net"
+  },
+  {
+    "label": "Liteapks",
+    "image": "liteapks.webp",
+    "href": "https://liteapks.com"
   }
 ]
